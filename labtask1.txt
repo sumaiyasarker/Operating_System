@@ -1,0 +1,14 @@
+1.cal
+2.whoami
+3.uname -m
+4.date +%Y/%m/%d
+5.date +%r
+6.mkdir project/docs/information -p
+7.touch project/docs/t1.txt project/docs/t2.txt
+8.cp  project/docs/t1.txt project
+9.mv project/docs/information ~
+10.cp -r project ~
+11.history -c
+12.!25
+13.cd project
+   cd -
